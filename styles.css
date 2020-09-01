@@ -221,7 +221,3 @@
   font-size: 20px;
   padding: 20px;
 }
-
-.footer1 li:hover {
-  color: var(--gray01);
-}
